@@ -1,0 +1,12 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}Thông tin thành viên}{2}{section.1}%
+\contentsline {section}{\numberline {2}Những thứ cần chuẩn bị trước khi cài đặt System call và exception}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Cài đặt trước}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Thông tin cơ bản về các thanh ghi}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Các bước cài đặt system call}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Cài đặt System call và exception}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Cài đặt lại các exception}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Cài đặt hàm inc\_program\_counter()}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Cài đặt system call int CreateFile(char *name)}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Cài đặt system call OpenFileID Open(char *name, int type) và int Close(OpenFileID id)}{4}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}SC\_Open}{4}{subsubsection.3.4.1}%
